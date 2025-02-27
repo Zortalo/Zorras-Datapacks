@@ -1,9 +1,5 @@
-Template for the Read the Docs tutorial
+Zorra's Datapacks Docs
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+A Complete Guide to all My Datapacks + Downloads
+A place to find tutorials, changelogs, and much more!
