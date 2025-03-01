@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+Zorra's Datapacks - Resources for Downloading and Playing.
 """
 
 __version__ = "0.1.0"
